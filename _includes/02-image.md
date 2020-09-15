@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture of Orion at Kings Island](https://cdn-cloudfront.cfauthx.com/binaries/content/gallery/kings-island/media-gallery/play/rides/ki-orion-mg7.jpg)
